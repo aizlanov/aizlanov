@@ -5,3 +5,9 @@
 	logallrefupdates = true
 	symlinks = false
 	ignorecase = true
+[remote "main"]
+	url = https://github.com/AIzlanov/AIzlanov
+	fetch = +refs/heads/*:refs/remotes/main/*
+[remote "origin"]
+	url = https://github.com/AIzlanov/AIzlanov
+	fetch = +refs/heads/*:refs/remotes/origin/*
