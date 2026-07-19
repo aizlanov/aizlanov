@@ -3,55 +3,50 @@
   <a href="README_RU.md"><img src="https://img.shields.io/badge/Russian%20%F0%9F%87%B7%F0%9F%87%BA-blue?style=flat-square" alt="Russian" /></a>
 </p>
 
-<h1 align="center">Привет! Меня зовут Артур Изланов</h1>
-<h3 align="center">Я аналитик данных с навыками машинного обучения</h3>
+# Привет!👋
+Меня зовут Артур Изланов, я аналитик данных с навыками машинного обучения.
 
+## 👤 О себе
 
+Дата-аналитик с фокусом на повышение эффективности бизнеса через работу с данными. <br>
+Мой подход к работе – "зайти, разобраться, оптимизировать":
+- Я не просто строю отчеты, а ищу причины, почему процессы буксуют,   
+  автоматизирую рутину и перевожу хаос в прозрачные дашборды.
+- В работе драйвит результат: сокращение времени на получение данных,   
+  рост точности прогнозов и автоматизация процессов, которые раньше отнимали у команды часы. 
+- Умею говорить на языке бизнеса: перевожу сложные технические решения   
+  в понятные метрики и помогаю стейкхолдерам принимать обоснованные решения.
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aizlanov&label=Profile%20views&color=0e75b6&style=flat" alt="aizlanov" /> </p> -->
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=aizlanov" alt="aizlanov" /></a> </p> -->
+## 💼 Текущий статус
+Открыт для предложений о работе <br>
+(рассматриваю удаленный формат или гибрид в Санкт-Петербурге).
 
-<h3 align="left">Написать можно здесь:</h3>
-<p align="left">
-  <a href="https://t.me/whiteheteroman" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="aizlanov" title="Telegram" height="30" width="30" /></a>
-  <a href="https://linkedin.com/in/aizlanov" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/500px-LinkedIn_icon.svg.png" alt="aizlanov" title="LinkedIn" height="30" width="30" /></a>
-</p>
+## 📞 Контакты для связи
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/whiteheteroman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aizlanov)
 
-<h3 align="left">Стек:</h3>
-<p align="left"> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="30" height="30" /></a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas" width="30" height="30"/></a> 
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/numpy/numpy-original.svg" alt="numpy" title="NumPy" width="30" height="30"/></a> 
-    <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/scikitlearn/scikitlearn-original.svg" alt="sklearn" title="Sklearn" width="30" height="30"/></a> 
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytorch/pytorch-original.svg" alt="pytorch" title="Pytorch" width="30" height="30"/></a>
-    <a href="https://keras.io/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/keras/keras-original.svg" alt="keras" title="Keras" width="30" height="30"/></a>
-    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apachespark/apachespark-original.svg" alt="Spark" title="Spark" width="30" height="30"/></a>
-    <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" title="Airflow" width="30" height="30"/></a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" title="PostgreSQL" width="30" height="30"/></a> 
-    <a href="https://clickhouse.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/clickhouse/clickhouse-original.svg" alt="clickhouse" title="ClickHouse" width="30" height="30"/></a> 
-    <!-- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/figma/figma-original.svg" alt="figma" title="Figma" width="30" height="30"/></a>  -->
-    <!-- <a href="https://www.photoshop.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/photoshop/photoshop-original.svg" alt="photoshop" title="Photoshop" width="30" height="30"/></a>  -->
-  </p>
-
-<!-- <p>
-<img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Aizlanov&layout=compact&hide=jupyter%20notebook" alt="Top Langs" />
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=Aizlanov&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" /> -->
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aizlanov&layout=compact&theme=radial&langs_count=5" alt="Top Languages" height="180" /> -->
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aizlanov&show_icons=true&locale=en&layout=compact" alt="aizlanov" /></p> -->
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aizlanov&show_icons=true&locale=en" alt="aizlanov" /></p> -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aizlanov&" alt="aizlanov" /></p> -->
+## 🛠️ Стек
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter) 
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) 
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas) 
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy) 
+![Scikit-Learn](https://img.shields.io/badge/-Sklearn-05122A?style=flat&logo=scikit-learn) 
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch) 
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)\
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql) 
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) 
+![ClickHouse](https://img.shields.io/badge/-ClickHouse-05122A?style=flat&logo=clickhouse) 
+![Apache Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=apache-spark) 
+![Apache Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=apache-airflow)\
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=power-bi) 
+![Apache Superset](https://img.shields.io/badge/-Superset-05122A?style=flat&logo=apache-superset)
+![Qlik](https://img.shields.io/badge/-Qlik%20Sense-05122A?style=flat&logo=qlik) 
+![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel) 
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)\
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma) 
+![Miro](https://img.shields.io/badge/-Miro-05122A?style=flat&logo=miro) 
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira) 
+![Confluence](https://img.shields.io/badge/-Confluence-05122A?style=flat&logo=confluence)
