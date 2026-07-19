@@ -3,8 +3,8 @@
   <a href="README_RU.md"><img src="https://img.shields.io/badge/Russian%20%F0%9F%87%B7%F0%9F%87%BA-blue?style=flat-square" alt="Russian" /></a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Arthur Izlanov</h1>
-<h3 align="center">Data scientist and analyst</h3>
+<h1 align="center">Привет! Меня зовут Артур Изланов</h1>
+<h3 align="center">Я аналитик данных с навыками машинного обучения</h3>
 
 
 
@@ -12,7 +12,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=aizlanov" alt="aizlanov" /></a> </p> -->
 
-<h3 align="left">Get in touch:</h3>
+<h3 align="left">Написать можно здесь:</h3>
 <p align="left">
   <a href="https://t.me/whiteheteroman" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="aizlanov" title="Telegram" height="30" width="30" /></a>
@@ -20,7 +20,7 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/500px-LinkedIn_icon.svg.png" alt="aizlanov" title="LinkedIn" height="30" width="30" /></a>
 </p>
 
-<h3 align="left">Stack:</h3>
+<h3 align="left">Стек:</h3>
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="30" height="30" /></a> 
