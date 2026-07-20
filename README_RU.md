@@ -50,3 +50,17 @@
 ![Miro](https://img.shields.io/badge/-Miro-05122A?style=flat&logo=miro) 
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira) 
 ![Confluence](https://img.shields.io/badge/-Confluence-05122A?style=flat&logo=confluence)
+
+
+## 📁 Портфолио
+
+Здесь собраны мои ключевые проекты, разделенные по направлениям:
+
+## 🎓 Учебные проекты (Яндекс.Практикум)
+- 📂 **[Query Based Image Search](./query-based-image-search)** — Система поиска изображений по текстовому запросу на базе эмбеддингов.
+- 📂 **[Sales Prediction](./work_shop_two)** — Идентификация клиентов, которые перестанут делать покупки для запуска акций по удержанию.
+- 📂 **[Heart Attack Prediction Service](./work_shop_one)** — Предсказание инфаркта на основе медицинских показателей клиента.
+- 📂 **[Customer Activity Prediction](./Git-project-for-Yandex.Practicum)** — Реактивация клиентов со снижающейся активностью.
+
+## 🧪 Личные проекты
+- 📂 **[Neat FFmpeg](./neat_ffmpeg)** — Десктопная утилита на Python. Минимальный графический интерфейс для быстрой конвертации и обработки видеофайлов через FFmpeg.
