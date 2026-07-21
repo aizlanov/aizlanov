@@ -53,10 +53,10 @@ Open to job offers <br>
 Here are my key projects, categorized by focus area:
 
 ## 🎓 Educational projects (Yandex.Practicum)
-- 📂 **[Query Based Image Search](./query-based-image-search)** — Image search system based on text queries utilizing vector embeddings.
-- 📂 **[Sales Prediction](./work_shop_two)** — Identification of customers churn risk to launch targeted retention campaigns.
-- 📂 **[Heart Attack Prediction Service](./work_shop_one)** — Heart attack prediction based on patient clinical health indicators.
-- 📂 **[Customer Activity Prediction](./Git-project-for-Yandex.Practicum)** — Re-engagement strategies for customers with declining activity levels.
+- 📂 **[Query Based Image Search](https://github.com/aizlanov/query-based-image-search)** — Image search system based on text queries utilizing vector embeddings.
+- 📂 **[Sales Prediction](https://github.com/aizlanov/sales-prediction)** — Identification of customers churn risk to launch targeted retention campaigns.
+- 📂 **[Heart Attack Prediction Service](https://github.com/aizlanov/heart-attack-prediction)** — Heart attack prediction based on patient clinical health indicators.
+- 📂 **[Customer Activity Prediction](https://github.com/aizlanov/customer-activity-prediction)** — Re-engagement strategies for customers with declining activity levels.
 
 ## 🧪 Pet Projects
-- 📂 **[Neat FFmpeg](./neat_ffmpeg)** — Desktop utility built with Python. A minimal graphical user interface for quick video file conversion and processing via FFmpeg.
+- 📂 **[Neat FFmpeg](https://github.com/aizlanov/neat_ffmpeg)** — Desktop utility built with Python. A minimal graphical user interface for quick video file conversion and processing via FFmpeg.
