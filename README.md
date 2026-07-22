@@ -3,16 +3,14 @@
   <a href="README_RU.md"><img src="https://img.shields.io/badge/Russian%20%F0%9F%87%B7%F0%9F%87%BA-gray?style=flat-square" alt="Russian" /></a>
 </p>
 
-# Hi!👋
-My name is Artur Izlanov, I'm a data analyst with machine learning skills.
+# Hi! 👋
+My name is Artur Izlanov, and I am a Data Scientist and Data Analyst focusing on machine learning and predictive analytics.
 
-## 👤 About me
-
-Data analyst with a focus on driving business efficiency through data. <br>
-My professional mindset is "dive in, figure it out, optimize":
-- I don't just build reports: I look for the root causes of process bottlenecks, automate routines, and transform chaos into transparent dashboards.
-- I am driven by results: reducing data retrieval times, increasing forecast accuracy, and automating processes that used to take the team hours.
-- I speak the language of business: translating complex technical solutions into clear metrics and helping stakeholders make data-driven decisions.
+## 👤 About Me
+I love turning raw numbers into clear and useful business tools. 
+- I enjoy diving deep into the core of problems, optimizing processes, and making life easier for my team.
+- Beyond analytics and dashboards, I actively dive into Data Science: building predictive models, forecasting trends, and optimizing processes using ML.
+- I value clear communication, a down-to-earth approach, and am always open to interesting tasks and projects.
 
 ## 💼 Current status
 Open to job offers <br>
