@@ -57,6 +57,7 @@ Here are my key projects, categorized by focus area:
 - 📂 **[Sales Prediction](https://github.com/aizlanov/sales-prediction)** — Identification of customers churn risk to launch targeted retention campaigns.
 - 📂 **[Heart Attack Prediction Service](https://github.com/aizlanov/heart-attack-prediction)** — Heart attack prediction based on patient clinical health indicators.
 - 📂 **[Customer Activity Prediction](https://github.com/aizlanov/customer-activity-prediction)** — Re-engagement strategies for customers with declining activity levels.
+- 📂 **[Taxi Orders Prediction](https://github.com/aizlanov/taxi-orders-prediction)** — Time series forecasting model for predicting airport taxi order volumes using machine learning.
 
 ## 🧪 Pet Projects
 - 📂 **[Neat FFmpeg](https://github.com/aizlanov/neat_ffmpeg)** — Desktop utility built with Python. A minimal graphical user interface for quick video file conversion and processing via FFmpeg.
