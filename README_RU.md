@@ -51,7 +51,7 @@
 
 Здесь собраны мои ключевые проекты, разделенные по направлениям:
 
-## 🎓 Учебные проекты (Яндекс.Практикум)
+## 🚀 Прикладные проекты и кейсы
 - 📂 **[Query Based Image Search](https://github.com/aizlanov/query-based-image-search)** — Система поиска изображений по текстовому запросу на базе эмбеддингов.
 - 📂 **[Sales Prediction](https://github.com/aizlanov/sales-prediction)** — Идентификация клиентов, которые перестанут делать покупки для запуска акций по удержанию.
 - 📂 **[Heart Attack Prediction Service](https://github.com/aizlanov/heart-attack-prediction)** — Предсказание инфаркта на основе медицинских показателей клиента.
