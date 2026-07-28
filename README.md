@@ -51,7 +51,7 @@ Open to job offers <br>
 Here are my key projects, categorized by focus area:
 
 ## 🚀 Applied Projects & Cases
-- 📂 **[Query Based Image Search](https://github.com/aizlanov/query-based-image-search)** — Image search system based on text queries utilizing vector embeddings.
+<!-- - 📂 **[Query Based Image Search](https://github.com/aizlanov/query-based-image-search)** — Image search system based on text queries utilizing vector embeddings. -->
 - 📂 **[Sales Prediction](https://github.com/aizlanov/sales-prediction)** — Identification of customers churn risk to launch targeted retention campaigns.
 - 📂 **[Heart Attack Prediction Service](https://github.com/aizlanov/heart-attack-prediction)** — Heart attack prediction based on patient clinical health indicators.
 - 📂 **[Customer Activity Prediction](https://github.com/aizlanov/customer-activity-prediction)** — Re-engagement strategies for customers with declining activity levels.
